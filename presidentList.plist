@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Barrock Obama</key>
+	<dict>
+		<key>Name</key>
+		<string>Barrock Obama</string>
+		<key>Image</key>
+		<string>Obama</string>
+		<key>Born</key>
+		<string>Born: August 4, 1961</string>
+		<key>Place of Birth</key>
+		<string>Honolulu, Hawaii, U.S.</string>
+		<key>Death</key>
+		<string>Death: Alive</string>
+		<key>Place of Death</key>
+		<string>N/A</string>
+		<key>Took Office</key>
+		<string>Prescidency: 1/20/2009 - 1/20/2017</string>
+		<key>Term Served</key>
+		<string>Terms served: 2</string>
+		<key>Before Office</key>
+		<string>U.S. Senator from Illinois</string>
+		<key>Party Affilation</key>
+		<string>Democratic</string>
+		<key>Vice</key>
+		<string>Joe Bidan</string>
+		<key>Vice image</key>
+		<string>Joe</string>
+	</dict>
+	<key>Donald Trump</key>
+	<dict>
+		<key>Name</key>
+		<string>Donald Trump</string>
+		<key>Image</key>
+		<string>Trump</string>
+		<key>Born</key>
+		<string>Born: June 14, 1946</string>
+		<key>Place of Birth</key>
+		<string>New York City</string>
+		<key>Death</key>
+		<string>Death: Alive</string>
+		<key>Place of Death</key>
+		<string>N/A</string>
+		<key>Took Office</key>
+		<string>Prescidency: 1/20/2017 - Current</string>
+		<key>Term Served</key>
+		<string>Terms served: Current</string>
+		<key>Before Office</key>
+		<string>Real estate developer</string>
+		<key>Party Affilation</key>
+		<string>Republican</string>
+		<key>Vice</key>
+		<string>Mike Pence</string>
+		<key>Vice image</key>
+		<string>Pence</string>
+	</dict>
+	<key>George Washington</key>
+	<dict>
+		<key>Name</key>
+		<string>George Washington</string>
+		<key>Image</key>
+		<string>Washington</string>
+		<key>Born</key>
+		<string>Born: February 22, 1732</string>
+		<key>Place of Birth</key>
+		<string>Bridges Creek, Colony of Virginia</string>
+		<key>Death</key>
+		<string>Death: December 14, 1799 (aged 67)</string>
+		<key>Place of Death</key>
+		<string>Mount Vernon, Virginia, U.S.</string>
+		<key>Took Office</key>
+		<string>Prescidency: 4/30/1789 – 3/4/1797</string>
+		<key>Term Served</key>
+		<string>Terms served: 2</string>
+		<key>Before Office</key>
+		<string>Commander-in-Chief of Continental Army</string>
+		<key>Party Affilation</key>
+		<string>Unaffiliated</string>
+		<key>Vice</key>
+		<string>John Adams</string>
+		<key>Vice image</key>
+		<string>Adams</string>
+	</dict>
+	<key>George W Bush</key>
+	<dict>
+		<key>Name</key>
+		<string>George W. Bush</string>
+		<key>Image</key>
+		<string>Bush</string>
+		<key>Born</key>
+		<string>Born: July 6, 1946 (age 71)</string>
+		<key>Place of Birth</key>
+		<string>New Haven, Connecticut, U.S.</string>
+		<key>Death</key>
+		<string>Death: Alive</string>
+		<key>Place of Death</key>
+		<string>N/A</string>
+		<key>Took Office</key>
+		<string>Prescidency: 1/20/2001 – 1/202009</string>
+		<key>Term Served</key>
+		<string>Terms served: 2</string>
+		<key>Before Office</key>
+		<string>46th Governor of Texas</string>
+		<key>Party Affilation</key>
+		<string>Republican</string>
+		<key>Vice</key>
+		<string>Dick Cheney</string>
+		<key>Vice image</key>
+		<string>Dick</string>
+	</dict>
+	<key>Bill Clinton</key>
+	<dict>
+		<key>Name</key>
+		<string>Bill Clinton</string>
+		<key>Image</key>
+		<string>Clinton</string>
+		<key>Born</key>
+		<string>Born: August 19, 1946 (age 71)</string>
+		<key>Place of Birth</key>
+		<string>Hope, Arkansas, U.S.</string>
+		<key>Death</key>
+		<string>Death: Alive</string>
+		<key>Place of Death</key>
+		<string>N/A</string>
+		<key>Took Office</key>
+		<string>Prescidency: 1/20/1993 – 1/20/2001</string>
+		<key>Term Served</key>
+		<string>Terms served: 2</string>
+		<key>Before Office</key>
+		<string>40th &amp; 42nd Governor of Arkansas</string>
+		<key>Party Affilation</key>
+		<string>Democratic</string>
+		<key>Vice</key>
+		<string>Al Gore</string>
+		<key>Vice image</key>
+		<string>Gore</string>
+	</dict>
+	<key>John F Kennedy</key>
+	<dict>
+		<key>Name</key>
+		<string>John F. Kennedy</string>
+		<key>Image</key>
+		<string>Kennedy</string>
+		<key>Born</key>
+		<string>Born: May 29, 1917</string>
+		<key>Place of Birth</key>
+		<string>Brookline, Massachusetts, U.S.</string>
+		<key>Death</key>
+		<string>Death: November 22, 1963 (aged 46)</string>
+		<key>Place of Death</key>
+		<string>Dallas, Texas, U.S.</string>
+		<key>Took Office</key>
+		<string>Prescidency: 1/20/1961 –  11/22/1963</string>
+		<key>Term Served</key>
+		<string>Terms served: 1</string>
+		<key>Before Office</key>
+		<string>U.S. Senator from Massachusetts</string>
+		<key>Party Affilation</key>
+		<string>Democratic</string>
+		<key>Vice</key>
+		<string>Lyndon B. Johnson</string>
+		<key>Vice image</key>
+		<string>Lyndon</string>
+	</dict>
+	<key>Harry S. Truman</key>
+	<dict>
+		<key>Name</key>
+		<string>Harry S. Truman</string>
+		<key>Image</key>
+		<string>Truman</string>
+		<key>Born</key>
+		<string>Born: May 8, 1884</string>
+		<key>Place of Birth</key>
+		<string>Lamar, Missouri, U.S.</string>
+		<key>Death</key>
+		<string>Death: December 26, 1972 (aged 88)</string>
+		<key>Place of Death</key>
+		<string>Kansas City, Missouri, U.S.</string>
+		<key>Took Office</key>
+		<string>Prescidency: 4/12/1945 – 1/20/1953</string>
+		<key>Term Served</key>
+		<string>Terms served: 2</string>
+		<key>Before Office</key>
+		<string>34th U.S. Vice President
+Vice President</string>
+		<key>Party Affilation</key>
+		<string>Democratic</string>
+		<key>Vice</key>
+		<string>Alben Barkley</string>
+		<key>Vice image</key>
+		<string>Barkley</string>
+	</dict>
+	<key>Abraham Lincoln</key>
+	<dict>
+		<key>Name</key>
+		<string>Abraham Lincoln</string>
+		<key>Image</key>
+		<string>Lincoln</string>
+		<key>Born</key>
+		<string>Born: February 12, 1809</string>
+		<key>Place of Birth</key>
+		<string>Sinking Spring Farm</string>
+		<key>Death</key>
+		<string>Death: April 15, 1865 (aged 56)</string>
+		<key>Place of Death</key>
+		<string>Petersen House, Washington, D.C., U.S.</string>
+		<key>Took Office</key>
+		<string>Prescidency: 3/4/1861 – 4/15/1865</string>
+		<key>Term Served</key>
+		<string>Terms served: 1</string>
+		<key>Before Office</key>
+		<string>U.S. Representative for Illinois&apos; 7th District</string>
+		<key>Party Affilation</key>
+		<string>Republican</string>
+		<key>Vice</key>
+		<string>Andrew Johnson</string>
+		<key>Vice image</key>
+		<string>Johnson</string>
+	</dict>
+	<key>Andrew Jackson</key>
+	<dict>
+		<key>Name</key>
+		<string>Andrew Jackson</string>
+		<key>Image</key>
+		<string>Jackson</string>
+		<key>Born</key>
+		<string>Born: March 15, 1767</string>
+		<key>Place of Birth</key>
+		<string>Waxhaw Settlement</string>
+		<key>Death</key>
+		<string>Death: June 8, 1845 (aged 78)</string>
+		<key>Place of Death</key>
+		<string>Nashville, Tennessee, U.S.</string>
+		<key>Took Office</key>
+		<string>Prescidency: 3/4/1829 – 3/4/1837</string>
+		<key>Term Served</key>
+		<string>Terms served: 2</string>
+		<key>Before Office</key>
+		<string>U.S. Senator from Tennessee</string>
+		<key>Party Affilation</key>
+		<string>Democratic</string>
+		<key>Vice</key>
+		<string>Martin Van Buren</string>
+		<key>Vice image</key>
+		<string>Van Buren</string>
+	</dict>
+	<key>Franklin D. Roosevelt</key>
+	<dict>
+		<key>Name</key>
+		<string>Franklin D. Roosevelt</string>
+		<key>Image</key>
+		<string>Roosevelt</string>
+		<key>Born</key>
+		<string>Born: January 30, 1882</string>
+		<key>Place of Birth</key>
+		<string>Hyde Park, New York, U.S.</string>
+		<key>Death</key>
+		<string>Death: April 12, 1945 (aged 63)</string>
+		<key>Place of Death</key>
+		<string>Warm Springs, Georgia, U.S.</string>
+		<key>Took Office</key>
+		<string>Prescidency: 3/4/1933 – 4/12/1945</string>
+		<key>Term Served</key>
+		<string>Terms served: 4</string>
+		<key>Before Office</key>
+		<string>44th Governor of New York
+Governor of New York</string>
+		<key>Party Affilation</key>
+		<string>Democratic</string>
+		<key>Vice</key>
+		<string>Truman</string>
+		<key>Vice image</key>
+		<string>Harry S. Truman</string>
+	</dict>
+</dict>
+</plist>
